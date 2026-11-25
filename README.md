@@ -1,104 +1,87 @@
 ::: {align="center"}
-# Badhan Chowdhury
+# Hi, I'm Badhan Chowdhury 👋
 
-**Frontend Developer · React.js · Next.js**
+### Frontend Developer \| React.js & Next.js
 
-Building thoughtful, responsive web experiences with clean architecture
-and attention to detail.
+I build responsive, user-focused web applications with clean interfaces,
+maintainable code, and practical functionality.
 
-`<a href="https://github.com/Badhan092">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Badhan092-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />`{=html}
-`</a>`{=html}
-`<a href="https://github.com/Badhan092?tab=repositories">`{=html}
-`<img src="https://img.shields.io/badge/Explore-My%20Repositories-2563EB?style=flat-square&logo=github&logoColor=white" alt="Repositories" />`{=html}
-`</a>`{=html}
+[![GitHub](https://img.shields.io/badge/GitHub-Badhan092-181717?style=for-the-badge&logo=github)](https://github.com/Badhan092)
 :::
 
 ------------------------------------------------------------------------
 
-## Profile
+## 👨‍💻 About Me
 
-I'm a frontend developer focused on creating modern web applications
-that balance usability, performance, and maintainability. I enjoy
-translating ideas and designs into polished interfaces and building
-features that solve practical problems.
+-   Frontend developer focused on building modern web experiences.
+-   Experienced with **React.js**, **Next.js**, and JavaScript-based
+    applications.
+-   Interested in UI engineering, performance optimization, and
+    real-time web experiences.
+-   Enjoy turning product ideas and designs into accessible, responsive
+    interfaces.
+-   Continuously learning and improving through hands-on projects.
 
--   Develop responsive interfaces with **React.js** and **Next.js**.
--   Integrate REST APIs and real-time application workflows.
--   Focus on reusable components, maintainable code, and user
-    experience.
--   Keep learning modern frontend patterns and performance techniques.
+## 🛠️ Tech Stack
 
-## Core Technologies
+**Frontend** - JavaScript (ES6+) - React.js - Next.js - HTML5, CSS3 -
+Tailwind CSS - SCSS
 
-::: {align="center"}
-`<img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind,sass,git,github,figma&perline=5" alt="Technologies: JavaScript, React, Next.js, HTML, CSS, Tailwind CSS, Sass, Git, GitHub, Figma" />`{=html}
-:::
+**Tools & Integration** - Git and GitHub - REST API integration -
+WebSockets - Figma - npm
 
-  Area              Technologies
-  ----------------- ---------------------------------------
-  Languages         JavaScript (ES6+), HTML5, CSS3
-  Frameworks & UI   React.js, Next.js, Tailwind CSS, SCSS
-  Integration       REST APIs, WebSockets
-  Tools             Git, GitHub, Figma, npm
-
-## Selected Projects
+## 🚀 Featured Work
 
 ### Dhaka Bus Finder
 
-A commuter-focused project for discovering Dhaka bus routes and
-accessing useful public-transit information.
+A commuter-focused bus route discovery project designed to help people
+explore Dhaka bus routes and find useful transit information.
 
-`Next.js` `JavaScript` `Responsive UI` `Transit Data`
+**Focus:** Next.js, JavaScript, responsive UI, route search, transit
+data.
 
 ### Road Rush
 
-A multiplayer bike-racing experience with level selection, player
-waiting rooms, and real-time matchmaking workflows.
+A multiplayer bike-racing game experience with level selection, player
+waiting rooms, and real-time matchmaking flows.
 
-`React` `Next.js` `WebSockets` `API Integration`
+**Focus:** React, Next.js, WebSockets, API integration, interactive UI.
 
 ### Cirkle Mega Campaign
 
-A campaign registration experience with form validation, location
+A campaign registration experience featuring user details, location
 selection, image upload, and OTP verification.
 
-`React` `API Integration` `Form UX` `Responsive Design`
+**Focus:** React, form handling, API integration, responsive design.
 
-> Project names are described here as portfolio highlights. Add links to
-> the corresponding public repositories when available.
+> Add repository links above when these projects are publicly available.
 
-## GitHub Activity
+## 📌 What I'm Working On
 
-::: {align="center"}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=Badhan092&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badhan092&layout=compact&hide_border=true" alt="Most used languages" />`{=html}
-:::
+-   Building polished and responsive frontend applications.
+-   Improving React and Next.js performance and architecture.
+-   Creating intuitive user experiences for real-world problems.
+-   Exploring better patterns for real-time application features.
 
-## Currently Focused On
-
--   Building high-quality frontend applications.
--   Improving React and Next.js architecture and performance.
--   Creating intuitive, accessible user interfaces.
--   Developing real-time and API-driven product features.
-
-## Connect
+## 📊 GitHub Overview
 
 ::: {align="center"}
-`<a href="https://github.com/Badhan092">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />`{=html}
-`</a>`{=html} `<a href="YOUR_LINKEDIN_URL">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />`{=html}
-`</a>`{=html} `<a href="YOUR_PORTFOLIO_URL">`{=html}
-`<img src="https://img.shields.io/badge/Portfolio-Visit-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />`{=html}
-`</a>`{=html}
-
-**Email:** `YOUR_PROFESSIONAL_EMAIL`
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=Badhan092&show_icons=true&hide_border=true&theme=default)
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Badhan092&layout=compact&hide_border=true&theme=default)
 :::
+
+## 🤝 Connect With Me
+
+-   **GitHub:** [@Badhan092](https://github.com/Badhan092)
+-   **LinkedIn:** \[Add your LinkedIn profile URL\]
+-   **Portfolio:** \[Add your portfolio URL\]
+-   **Email:** \[Add your professional email\]
 
 ------------------------------------------------------------------------
 
 ::: {align="center"}
-`<sub>`{=html}Open to meaningful collaborations and interesting frontend
-challenges.`</sub>`{=html}
+*Thanks for visiting my profile! Feel free to explore my repositories
+and connect.*
 :::

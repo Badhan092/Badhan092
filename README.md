@@ -1,8 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:6366F1,50:8B5CF6,100:06B6D4&text=Badhan%20Chowdhury&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20React.js%20%26%20Next.js&descAlignY=58&descSize=20&animation=fadeIn" alt="Badhan Chowdhury - Frontend Developer" />
-
 <br/>
 
 <!-- Avatar (circular crop via wsrv.nl).
@@ -139,24 +137,61 @@ flowchart LR
 
 <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind,sass&perline=7" alt="Frontend skills" />
 
+<br/><br/>
+
 ### Tools & Workflow
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,npm,vercel,vscode&perline=6" alt="Tools" />
 
-</div>
+<br/><br/>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="25%">Category</th>
+      <th align="center" width="45%">Technologies</th>
+      <th align="center" width="30%">Experience</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>Languages</b></td>
+      <td align="center">JavaScript (ES6+), HTML5, CSS3</td>
+      <td align="center">🟣 Daily driver</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Frameworks</b></td>
+      <td align="center">React.js, Next.js</td>
+      <td align="center">🟣 Daily driver</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Styling</b></td>
+      <td align="center">Tailwind CSS, SCSS</td>
+      <td align="center">🟣 Daily driver</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Integration</b></td>
+      <td align="center">REST APIs, WebSockets</td>
+      <td align="center">🔵 Confident</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Design handoff</b></td>
+      <td align="center">Figma</td>
+      <td align="center">🔵 Confident</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Tooling</b></td>
+      <td align="center">Git, GitHub, npm</td>
+      <td align="center">🔵 Confident</td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
-| Category | Technologies | Experience |
-|---|---|---|
-| **Languages** | JavaScript (ES6+), HTML5, CSS3 | 🟣 Daily driver |
-| **Frameworks** | React.js, Next.js | 🟣 Daily driver |
-| **Styling** | Tailwind CSS, SCSS | 🟣 Daily driver |
-| **Integration** | REST APIs, WebSockets | 🔵 Confident |
-| **Design handoff** | Figma | 🔵 Confident |
-| **Tooling** | Git, GitHub, npm | 🔵 Confident |
-
 <sub>🟣 Daily driver &nbsp;·&nbsp; 🔵 Confident &nbsp;·&nbsp; 🟢 Exploring</sub>
+
+</div>
 
 ---
 
